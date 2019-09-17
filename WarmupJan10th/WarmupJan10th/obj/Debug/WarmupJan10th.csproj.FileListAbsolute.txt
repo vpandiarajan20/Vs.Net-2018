@@ -1,0 +1,6 @@
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\WarmupJan10th\WarmupJan10th\bin\Debug\WarmupJan10th.exe.config
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\WarmupJan10th\WarmupJan10th\bin\Debug\WarmupJan10th.exe
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\WarmupJan10th\WarmupJan10th\bin\Debug\WarmupJan10th.pdb
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\WarmupJan10th\WarmupJan10th\obj\Debug\WarmupJan10th.csprojResolveAssemblyReference.cache
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\WarmupJan10th\WarmupJan10th\obj\Debug\WarmupJan10th.exe
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\WarmupJan10th\WarmupJan10th\obj\Debug\WarmupJan10th.pdb

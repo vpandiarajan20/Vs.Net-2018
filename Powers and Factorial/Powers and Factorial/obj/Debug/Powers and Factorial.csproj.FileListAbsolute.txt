@@ -1,0 +1,6 @@
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\Powers and Factorial\Powers and Factorial\bin\Debug\Powers and Factorial.exe.config
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\Powers and Factorial\Powers and Factorial\bin\Debug\Powers and Factorial.exe
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\Powers and Factorial\Powers and Factorial\bin\Debug\Powers and Factorial.pdb
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\Powers and Factorial\Powers and Factorial\obj\Debug\Powers and Factorial.csprojResolveAssemblyReference.cache
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\Powers and Factorial\Powers and Factorial\obj\Debug\Powers and Factorial.exe
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\Powers and Factorial\Powers and Factorial\obj\Debug\Powers and Factorial.pdb

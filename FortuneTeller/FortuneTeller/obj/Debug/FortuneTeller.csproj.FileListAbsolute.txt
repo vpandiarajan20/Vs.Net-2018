@@ -1,0 +1,6 @@
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.exe.config
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.exe
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\FortuneTeller\FortuneTeller\bin\Debug\FortuneTeller.pdb
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.csprojResolveAssemblyReference.cache
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.exe
+\\dvhs-fs\students\dh.vpandiarajan\visual studio 2013\Projects\FortuneTeller\FortuneTeller\obj\Debug\FortuneTeller.pdb
